@@ -17,14 +17,14 @@ const Footer = () => {
               something extraordinary together.
             </p>
             <div className="flex space-x-4 pt-4">
-              <Link
+              {/* <Link
                 href="https://github.com/yourusername"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-200 transition-colors"
-              ></Link>
+              ></Link> */}
               <Link
-                href="https://linkedin.com/in/yourusername"
+                href="https://linkedin.com/in/ahmed9ww"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-200 transition-colors"
@@ -32,7 +32,7 @@ const Footer = () => {
                 <Linkedin className="h-6 w-6" />
               </Link>
               <Link
-                href="mailto:ahmed@example.com"
+                href="mailto:ahmed369ww@gmail.com"
                 className="hover:text-blue-200 transition-colors"
               >
                 <Mail className="h-6 w-6" />
@@ -71,7 +71,7 @@ const Footer = () => {
             <div className="space-y-2 text-blue-100">
               <p className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
-                ahmed@example.com
+                ahmed369ww@gmail.com
               </p>
             </div>
           </div>

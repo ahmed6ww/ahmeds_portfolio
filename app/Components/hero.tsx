@@ -22,9 +22,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className="mx-auto max-w-[700px] text-lg  text-gray-500 sm:text-xl">
-              AI Engineer crafting intelligent solutions through code.
-              Specializing in machine learning, deep learning, and AI systems
-              development.
+            Full-Stack AI Developer | Next.js, LLM Integrations & Scalable Architectures
             </p>
           </div>
 

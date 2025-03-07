@@ -22,11 +22,19 @@ const About = () => {
               About Me
             </h2>
             <p className="text-lg  text-gray-500">
-              As an AI Engineer, I bridge the gap between theoretical machine
-              learning concepts and practical applications. With a deep
-              understanding of neural networks, natural language processing, and
-              computer vision, I develop solutions that push the boundaries of
-              whats possible with artificial intelligence.
+              Full-Stack Next.js Developer specializing in end-to-end web
+              application development. Procient in leveraging Next.js for
+              building performant frontend interfaces and scalable backend
+              systems, including API routes, server-side rendering (SSR), and
+              server actions. Skilled in database design with PostgreSQL (hosted
+              on Neon) and data modeling using Drizzle and Prisma ORMs.
+              Experienced in enabling LLM integrations using Pinecone and Milvus
+              vector databases. Deploy applications seamlessly via Vercel and
+              Azure (using Docker containers), and automate workows with GitHub
+              Actions CI/CD. Combines frontend craftsmanship (using shadcn,
+              ChakraUI, NextUI, and Framer Motion) with robust backend
+              architecture to deliver full-stack solutions optimized for speed,
+              security, and scalability
             </p>
             <div className="grid gap-4 sm:grid-cols-2">
               <div className="flex flex-col items-center p-4 rounded-lg bg-background shadow-sm">
