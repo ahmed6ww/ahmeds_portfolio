@@ -9,7 +9,7 @@ const About = () => {
           <div className="relative aspect-[3/4] w-full max-w-md mx-auto">
             <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-blue-600/20 rounded-3xl -rotate-6"></div>
             <Image
-              src="/ahmed.jpg"
+              src="/ahmed.webp"
               alt="Ahmed's profile"
               width={600}
               height={800}
