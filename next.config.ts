@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   eslint: {
-    dirs: ['pages', 'utils','components'], // Only run ESLint on the 'pages' and 'utils' directories during production builds (next build)
+    dirs: ['pages', 'utils','components',"ui"], // Only run ESLint on the 'pages' and 'utils' directories during production builds (next build)
   },
 };
 
